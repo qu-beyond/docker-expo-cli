@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:alpine
 
 RUN apk add --no-cache bash git \
   && npm install --global --unsafe-perm expo-cli \
