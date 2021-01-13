@@ -24,4 +24,4 @@ docker run \
 Success. You are now logged in as username.
 ```
 
-v1.0.3
+v1.0.4
